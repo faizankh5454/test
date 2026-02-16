@@ -1,0 +1,1 @@
+select top 10 * from USR_0_INFOBIP_SMS_QUEUETABLE  with (NOLOCK) where Alert_Status='P'
